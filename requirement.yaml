@@ -1,0 +1,9 @@
+numpy==1.25.2
+torch==2.0.1
+tensorboard==2.14.1
+tensorboardX==2.6.2.2
+tqdm==4.66.1
+rich==13.5.3
+gymnasium==0.29.1
+matplotlib==3.8.2
+seaborn==0.13.2
