@@ -14,7 +14,7 @@
 @article{wu2024variational,
   title={Variational Delayed Policy Optimization},
   author={Wu, Qingyuan and Zhan, Simon Sinong and Wang, Yixuan and Wang, Yuhui and Lin, Chung-Wei and Lv, Chen and Zhu, Qi and Huang, Chao},
-  journal={arXiv preprint arXiv:2405.14226},
+  booktitle={38th Conference on Neural Information Processing Systems},
   year={2024}
 }
 ```
